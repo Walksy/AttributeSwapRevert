@@ -12,6 +12,9 @@
   "entrypoints": {
     "client": [
       "walksy.attributeswaprevert.AttributeSwapRevert"
+    ],
+    "walksylib": [
+      "walksy.attributeswaprevert.config.WalksyLibIntegration"
     ]
   },
   "mixins": [
